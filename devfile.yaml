@@ -10,7 +10,7 @@ projects:
       remote: origin
       revision: main
     remotes:
-      origin:https://github.com/cgruver/devspaces-workspace-generator.git
+      origin: https://github.com/cgruver/devspaces-workspace-generator.git
 - name: devspaces-workspace-generator-ui
   git:
     checkoutFrom:
