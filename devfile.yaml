@@ -75,5 +75,4 @@ commands:
   id: prep-workspace
 events:
   preStart:
-    - cp-oc-cli
     - prep-workspace
